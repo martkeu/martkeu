@@ -5,7 +5,9 @@ Ich bin ein angehender, hoffentlich bald professioneller Full-Stack Webentwickle
 Zu meinen Fähigkeiten gehören:
 
 - HTML und CSS
-- PHP
+- `PHP`
 - JavaScript
 - dumme Fragen zu stellen
 - kluge Antworten zu geben
+
+![Sonny and Mariel high fiving.](https://content.codecademy.com/courses/learn-cpp/community-challenge/highfive.gif)
